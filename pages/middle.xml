@@ -1,8 +1,8 @@
-<page id="middle" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="middle" bg_image="desert-12.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World Middle"
-    color="white"
+    text="mari linda"
+    color="lightpink"
     x="center"
     y="center"
     font-size="70"
