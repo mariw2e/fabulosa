@@ -1,8 +1,8 @@
-<page id="start" bg_image="download_6_.jpeg" bg_music="cute_creatures_150622.mp">
+<page id="start" bg_image="download_2_.gif" bg_music="cute_creatures_150622.mp">
   <agent
     id="teste"
     text="Luli e o reino colorido!"
-    color="white"
+    color="hotpink"
     x="center"
     y="center"
     font-size="70"
