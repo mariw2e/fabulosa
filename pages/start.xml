@@ -1,20 +1,18 @@
 <page
   id="start"
   bg_image="pastel_zoom_background.jpeg"
-  bg_music="cute_creatures_150622.mp"
+  bg_music="cute_creatures_150622.mp3"
 >
+  <agent
+    id="luli"
+    image="download_3_.gif"
+    width="250"
+    animation="fade-in"
+    x="center"
+    y="80"
+  />
 
-<agent
-  id='luli'
-  image='download_3_.gif'
-  width="250"
-  animation="fade-in"
-   x="center"
-   y="80"
-
-/>
-  
-<agent
+  <agent
     id="teste"
     text="Luli e o reino colorido!"
     color="hotpink"
@@ -25,7 +23,6 @@
     border_color="#FFF0F5"
     bg_color="#FFFOF5"
     animation="hover-bg-color-[#FFFOF5] hover-color-[white]"
-    color="#FFF0F5"
     radius="20"
     on_click="set(contador, $contador + 10)"
   />
