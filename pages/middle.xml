@@ -1,15 +1,25 @@
-<page id="middle" bg_image="tech-spike.png" bg_music="cute_creatures_150622.mp3">
+<page id="middle" bg_image="whatsapp_image_2025_06_15_at_01_26_52.jpeg" bg_music="cute_creatures_150622.mp3">
   <agent
     id="teste"
-    text="mari linda"
-    color="lightpink"
+    text="O céu está cinza no Reino de Lunalume.
+O Cristal do Arco-Íris desapareceu!
+    Você é Luli, a coelhinha de orelhas brilhantes."
+    color="#DB7093"
     x="center"
     y="center"
-    font-size="70"
+    font-size="20"
+    bg_color="white"
+    border="dotted"
+  />
+  
+<agent
+  id='missao'
+  text text="Sua missão: encontrar e devolver o cristal." id="agent-1"
   />
 
+
   <agent
-    id="next_page_text"
+    id="next"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
