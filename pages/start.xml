@@ -13,7 +13,7 @@
     border_color="lightpink"
     border="dotted"
     border_color="#FFF0F5"
-    bg_color="transparent"
+    bg_color="#FFFOF5"
     animation="hover-bg-color-[#FFFOF5] hover-color-[white]"
     color="#FFF0F5"
     radius="20"
@@ -31,7 +31,7 @@
     x="350"
     color="#FFF0F5"
     radius="20"
-    on_click="set(contador, $contador + 10)"
-    on_click="goToPage('middle')"
+    on_click='goToPage('middle')'
+   
   />
 </page>
