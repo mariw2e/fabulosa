@@ -1,16 +1,20 @@
-<page id="start" bg_image="download_2_.gif" bg_music="cute_creatures_150622.mp">
+<page
+  id="start"
+  bg_image="pastel_zoom_background.jpeg"
+  bg_music="cute_creatures_150622.mp"
+>
   <agent
     id="teste"
     text="Luli e o reino colorido!"
     color="hotpink"
-    x="160"
-    y="240"
+    x="center"
+    y="center"
     font-size="70"
   />
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
+    text="Começar"
     animation="glitch"
     y="480"
     x="640"
