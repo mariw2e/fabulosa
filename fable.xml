@@ -1,10 +1,9 @@
 <fable>
   <config font-family= 'Luckiest Guy' />
-
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-  <property name="contador" default="valor_inicial" /> 
-
+  <property name="contador" default="valor_inicial" />
+  
   <start />
   <middle />
   <ending />
