@@ -3,8 +3,8 @@
     id="teste"
     text="Luli e o reino colorido!"
     color="hotpink"
-    x="center"
-    y="center"
+    x="160"
+    y="240"
     font-size="70"
   />
 
