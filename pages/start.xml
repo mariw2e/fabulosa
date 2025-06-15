@@ -9,7 +9,15 @@
     color="hotpink"
     x="center"
     y="center"
-    font-size="70"
+    font-size="50"
+    border_color="lightpink"
+    border='dotted'
+    border_color='#FFF0F5'
+    bg_color="transparent"
+    animation="hover-bg-color-[#FFFOF5] hover-color-[white]"
+    color = '#FFF0F5'
+    radius = '20'
+    on_click="set(contador, $contador + 10)"
   />
 
   <agent
