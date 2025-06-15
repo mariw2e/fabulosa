@@ -1,7 +1,7 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="cute_creatures_150622.mp3">
+<page id="start" bg_image="download_6_.jpeg" bg_music="cute_creatures_150622.mp">
   <agent
     id="teste"
-    text="Hello World"
+    text="Luli e o reino colorido!"
     color="white"
     x="center"
     y="center"
