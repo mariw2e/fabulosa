@@ -20,9 +20,8 @@
     y="center"
     font-size="50"
     border="dotted"
-    border_color="#FFF0F5"
     bg_color="#FFFOF5"
-    animation="hover-bg-color-[#FFFOF5] hover-color-[white]"
+    animation="hover-bg-color-[pink] hover-color-[white]"
     radius="20"
     on_click="set(contador, $contador + 10)"
   />
