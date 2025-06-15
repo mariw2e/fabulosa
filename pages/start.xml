@@ -3,7 +3,18 @@
   bg_image="pastel_zoom_background.jpeg"
   bg_music="cute_creatures_150622.mp"
 >
-  <agent
+
+<agent
+  id='luli'
+  image='download_3_.gif'
+  width="250"
+  animation="fade-in"
+   x="center"
+   y="80"
+
+/>
+  
+<agent
     id="teste"
     text="Luli e o reino colorido!"
     color="hotpink"
