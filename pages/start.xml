@@ -10,7 +10,6 @@
     x="center"
     y="center"
     font-size="50"
-    border_color="lightpink"
     border="dotted"
     border_color="#FFF0F5"
     bg_color="#FFFOF5"
