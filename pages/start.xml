@@ -1,7 +1,7 @@
 <page
   id="start"
   bg_image="pastel_zoom_background.jpeg"
-  bg_music="cute_creatures_150622.mp"
+  bg_music="cute_creatures_150622.mp3"
 >
   <agent
     id="teste"
@@ -18,7 +18,7 @@
     color="#FFF0F5"
     radius="20"
     on_click="set(contador, $contador + 10)"
-  />
+    />
 
   <agent
     id="next_page_text"
